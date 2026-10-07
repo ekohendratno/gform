@@ -1,0 +1,364 @@
+{
+  "form_id": "1KEAuSyiOAcsj8pL3iOVgUEWPR5bEXw5-jzviQwXEBe0",
+  "form_url": "https://docs.google.com/forms/d/1KEAuSyiOAcsj8pL3iOVgUEWPR5bEXw5-jzviQwXEBe0/edit",
+  "title": "Asesmen Sumatif Tengah Semester",
+  "subject": "Matematika",
+  "grade": "IX (Sembilan)",
+  "total_questions": 20,
+  "description": "Mata Pelajaran : Matematika\nKelas                  : IX (Sembilan)\nJumlah Soal      : 20 Soal Pilihan Ganda",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Kerjakan soal berikut dengan tepat.",
+      "description": "Materi : Sistem Persamaan Linear Dua Variabel (SPLDV)"
+    },
+    {
+      "id": 2,
+      "title": "Kerjakan soal berikut dengan tepat",
+      "description": "Materi : Lingkaran"
+    },
+    {
+      "id": 3,
+      "title": "Kerjakan soal berikut dengan tepat",
+      "description": "Materi : Jaring - Jaring Bangun Ruang"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "id": "295743229",
+      "question": "Diketahui sebuah persamaan memuat 4x + 2y = 12. Manakah yang merupakan konstanta pada persamaan itu..",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "4 dan 2",
+        "x dan y",
+        "12",
+        "="
+      ],
+      "images": null
+    },
+    {
+      "number": 2,
+      "id": "324338382",
+      "question": "Sebuah persamaan memuat  - m - 2n = 10. Manakah yang merupakan koefisien dari persamaan tersebut.",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "1 dan 2",
+        "-1 dan -2",
+        "m dan n",
+        "10"
+      ],
+      "images": null
+    },
+    {
+      "number": 3,
+      "id": "420176421",
+      "question": "Diketahui SPLDV \n2x + y = 7\nx - y = -1\nNilai x dan y yang memenuhi sistem persamaan tersebut adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "x = 2 ; y = 3",
+        "x = 3 ; y = 1",
+        "x = 1 ; y = 5",
+        "x = 2 ; y = -3"
+      ],
+      "images": null
+    },
+    {
+      "number": 4,
+      "id": "1578157352",
+      "question": "Terdapat proyek pembangunan rumah dua lantai yang memerlukan besi dan kayu sebagai kerangka. Untuk lantai 2, bahan dibeli dari toko A sebanyak 50 besi dan 75 kayu, lalu dibeli lagi 60 besi dari toko B. \n\nSelanjutnya untuk lantai 1, bahan baku dibeli dari tiga perusahaan (A,B dan C) dimana pada masing-masing perusahaan dibeli 80 besi dan 20 kayu. \n\nApabila harga besi dilambangkan dengan x, dan harga kayu dilambangkan dengan y, maka persamaan untuk menentukan total harga yang harus dibayarkan adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "350x + 135y",
+        "350x + 155y",
+        "340x + 135y",
+        "340x + 155y"
+      ],
+      "images": null
+    },
+    {
+      "number": 5,
+      "id": "1454329986",
+      "question": "Agus, Budi dan Deni membeli buku dan pensil sejenis. Agus membeli 5 buku dan 4 pensil seharga Rp38.000,00. Budi membeli 3 buku dan 6 pensil seharga Rp30.000,00. Jika Deni membeli 4 buku dan 4 pensil, maka harga yang harus dibayar adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "Rp26.000,00",
+        "Rp28.000,00",
+        "Rp30.000,00",
+        "Rp32.000,00"
+      ],
+      "images": null
+    },
+    {
+      "number": 6,
+      "id": "851819340",
+      "question": "Di tempat parkir terdapat 75 kendaraan yang terdiri dari mobil dan sepeda motor. Banyak roda seluruhnya ada 210 . Jika tarif parkir untuk mobil Rp5.000,00 dan sepeda motor Rp2.000,00. maka pendapatan uang parkir saat itu adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "Rp210.000,00",
+        "Rp240.000,00",
+        "Rp260.000,00",
+        "Rp300.000,00"
+      ],
+      "images": null
+    },
+    {
+      "number": 7,
+      "id": "1816141314",
+      "question": "Diketahui 4x + 2y = 2 dan 7x + 4y = 2. \nManakah persamaan berikut yang memiliki pernyataan yang benar...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "x - 2y = -8",
+        "3x + 5y = 9",
+        "x + y = -1",
+        "x + y = 1"
+      ],
+      "images": null
+    },
+    {
+      "number": 8,
+      "id": "1478410130",
+      "question": "Diketahui 2x - y = 4 dan x + 3y = - 5. Berapakah nilai x dan y untuk memenuhi persamaan tersebut",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat.",
+      "options": [
+        "x = 1 dan y = 2",
+        "x = 2 dan y = 1",
+        "x = 1 dan y = -2",
+        "x = -1 dan y = 2"
+      ],
+      "images": null
+    },
+    {
+      "number": 9,
+      "id": "965824887",
+      "question": "Pada gambar bagian lingkaran dibawah ini, gambar yang di warnai Daerah yang diwarnai  biru merupakan ...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "Busur lingkaran",
+        "Apotema",
+        "Juring",
+        "Tembereng"
+      ],
+      "images": [
+        {
+          "blob_id": "s-blob-v1-IMAGE-Y3QOjR_r2VI",
+          "width": 543,
+          "height": 514
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "id": "1199661552",
+      "question": "Pada gambar lingkaran dibawah ini, Garis OD merupakan ...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "Tali Busur",
+        "Apotema",
+        "Juring",
+        "Jari - Jari"
+      ],
+      "images": [
+        {
+          "blob_id": "s-blob-v1-IMAGE-YI0U9J-H6QE",
+          "width": 451,
+          "height": 417
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "id": "605197499",
+      "question": "Jika panjang jari-jari sebuah lingkaran 7 cm , maka panjang keliling lingkaran tersebut adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "44 cm",
+        "22 cm",
+        "11 cm",
+        "7 cm"
+      ],
+      "images": null
+    },
+    {
+      "number": 12,
+      "id": "1298396291",
+      "question": "Pak Iswan ingin membuat sebuah kebun yang bentuknya merupakan gabungan dari sebuah persegi panjang dan sebuah setengah lingkaran. Persegi panjang tersebut memiliki panjang 20 m dan lebar 14 m. Jika setengah lingkaran tersebut terpasang tepat pada salah satu sisi lebar persegi panjang, maka panjang pagar minimal yang diperlukan Pak Iswan untuk mengelililingi seluruh kebun tersebut adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "54 m",
+        "76 m",
+        "82 m",
+        "90 m"
+      ],
+      "images": null
+    },
+    {
+      "number": 13,
+      "id": "813591176",
+      "question": "Bu Novi memiliki kendaraan dengan roda berjari-jari 35 cm berputar sebanyak 200 kali diatas jalan mendatar. Jarak total yang ditempuh oleh roda itu adalah",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "110 m",
+        "220 m",
+        "440 m",
+        "880 m"
+      ],
+      "images": null
+    },
+    {
+      "number": 14,
+      "id": "204890803",
+      "question": "Sebuah taman berbentuk lingkaran memiliki keliling 132 cm. Jika taman tersebut akan dipagari dengan total biaya Rp15.000,00 per meter, maka biaya total pemagaran seluruhnya adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "Rp13.200",
+        "Rp19.800",
+        "Rp21.000",
+        "Rp26.400"
+      ],
+      "images": null
+    },
+    {
+      "number": 15,
+      "id": "335048510",
+      "question": "Sebuah lingkaran besar memiliki luas 616 cm persegi. Berapakah panjang diameter lingkaran tersebut ?",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "56 cm",
+        "28 cm",
+        "22 cm",
+        "14 cm"
+      ],
+      "images": null
+    },
+    {
+      "number": 16,
+      "id": "919520467",
+      "question": "Pada sebuah lingkaran dengan jari-jari 21 cm terdapat busur AB yang panjangnya dibentuk oleh sudut pusat 60 derajat. Panjang busur AB adalah...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "11 cm",
+        "22 cm",
+        "44 cm",
+        "66 cm"
+      ],
+      "images": null
+    },
+    {
+      "number": 17,
+      "id": "1913218724",
+      "question": "Diketahui sebuah juring memiliki jari-jari 14 cm dan sudut pusat 90 derajat. Maka luas juring lingkaran tersebut adalah .... cm persegi",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "77",
+        "154",
+        "308",
+        "616"
+      ],
+      "images": [
+        {
+          "blob_id": "s-blob-v1-IMAGE-E_VxTtQ35vs",
+          "width": 478,
+          "height": 378
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "id": "1323017535",
+      "question": "Gambar berikut merupakan gambar jaring-jaring dari...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "Limas Segitiga",
+        "Prisma Segitiga",
+        "Segitiga sama kaki",
+        "Prisma Segiempat"
+      ],
+      "images": [
+        {
+          "blob_id": "s-blob-v1-IMAGE-6sX-zB7RJYg",
+          "width": 306,
+          "height": 355
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "id": "936490603",
+      "question": "Gambar berikut merupakan jaring-jaring dari...",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "Lingkaran",
+        "Bola",
+        "Tabung",
+        "Kerucut"
+      ],
+      "images": [
+        {
+          "blob_id": "s-blob-v1-IMAGE-rCF0z8TYNCU",
+          "width": 417,
+          "height": 505
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "id": "705322963",
+      "question": "Gambar berikut merupakan gambar jaring-jaring dari .... dan lingkaran kecil dibawahnya merupakan ....",
+      "description": null,
+      "type": "multiple_choice",
+      "section": "Kerjakan soal berikut dengan tepat",
+      "options": [
+        "Tabung - alas tabung",
+        "Prisma - alas prisma",
+        "Kerucut - alas kerucut",
+        "limas - alas limas"
+      ],
+      "images": [
+        {
+          "blob_id": "s-blob-v1-IMAGE-_cfrHGxbnxY",
+          "width": 589,
+          "height": 538
+        }
+      ]
+    }
+  ]
+}

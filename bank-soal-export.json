@@ -1,0 +1,819 @@
+{
+  "formId": "1KEAuSyiOAcsj8pL3iOVgUEWPR5bEXw5-jzviQwXEBe0",
+  "title": "Asesmen Sumatif Tengah Semester",
+  "description": "Mata Pelajaran : Matematika\nKelas                  : IX (Sembilan)\nJumlah Soal      : 20 Soal Pilihan Ganda",
+  "publishedUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf5pdISRnHpmYXetrLHKqsjZQFLwbv-zNJlaRL0hcKphItDzg/viewform",
+  "editUrl": "https://docs.google.com/forms/d/1KEAuSyiOAcsj8pL3iOVgUEWPR5bEXw5-jzviQwXEBe0/edit",
+  "exportedAt": "2026-09-16 12:33:06",
+  "isQuiz": true,
+  "totalItems": 27,
+  "totalQuestions": 24,
+  "items": [
+    {
+      "index": 1,
+      "itemId": "1419800322",
+      "type": "TEXT",
+      "title": "Nama Murid",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "TEXT",
+        "title": "Nama Murid",
+        "helpText": "",
+        "required": true
+      },
+      "quiz": {"isQuiz": false, "points": null, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 2,
+      "itemId": "1272593317",
+      "type": "LIST",
+      "title": "Kelas  (Jika hanya terdapat 1 kelas pilih kelas 9A)",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "LIST",
+        "title": "Kelas  (Jika hanya terdapat 1 kelas pilih kelas 9A)",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "9A"},
+          {"index": 2, "value": "9B"},
+          {"index": 3, "value": "9C"},
+          {"index": 4, "value": "9D"},
+          {"index": 5, "value": "9E"},
+          {"index": 6, "value": "9F"},
+          {"index": 7, "value": "9G"},
+          {"index": 8, "value": "9H"},
+          {"index": 9, "value": "9I"}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 0, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 3,
+      "itemId": "1659269401",
+      "type": "LIST",
+      "title": "Kecamatan",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "LIST",
+        "title": "Kecamatan",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Air Hitam"},
+          {"index": 2, "value": "Balik Bukit"},
+          {"index": 3, "value": "Bandar Negeri Suoh"},
+          {"index": 4, "value": "Batu Brak"},
+          {"index": 5, "value": "Batu Ketulis"},
+          {"index": 6, "value": "Belalau"},
+          {"index": 7, "value": "Gedung Surian"},
+          {"index": 8, "value": "Kebun Tebu"},
+          {"index": 9, "value": "Lumbok Seminung"},
+          {"index": 10, "value": "Sukau"},
+          {"index": 11, "value": "Pagar Dewa"},
+          {"index": 12, "value": "Sekincau"},
+          {"index": 13, "value": "Sumber Jaya"},
+          {"index": 14, "value": "Suoh"},
+          {"index": 15, "value": "Way Tenong"}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 0, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 4,
+      "itemId": "2061697737",
+      "type": "LIST",
+      "title": "Nama Sekolah",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "LIST",
+        "title": "Nama Sekolah",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "SMPN 1 Sumber Jaya"},
+          {"index": 2, "value": "SMPN 2 Sumber Jaya"},
+          {"index": 3, "value": "SMPN 3 Sumber Jaya"},
+          {"index": 4, "value": "SMPN 1 Kebun Tebu"},
+          {"index": 5, "value": "SMPN 2 Kebun Tebu"},
+          {"index": 6, "value": "SMPN 3 Kebun Tebu"},
+          {"index": 7, "value": "SMPN 1 Gedung Surian"},
+          {"index": 8, "value": "SMPN 2 Gedung Surian"},
+          {"index": 9, "value": "SMP IT Aminatul Jannah"},
+          {"index": 10, "value": "SMPN 1 Way Tenong"},
+          {"index": 11, "value": "SMPN 2 Way Tenong"},
+          {"index": 12, "value": "SMPN 3 Way Tenong"},
+          {"index": 13, "value": "SMPN Satap 1 Way Tenong"},
+          {"index": 14, "value": "SMP Plus Ar Irsyad"},
+          {"index": 15, "value": "SMP IT Al Fatih"},
+          {"index": 16, "value": "SMPN 1 Air Hitam"},
+          {"index": 17, "value": "SMPN 2 Air Hitam"},
+          {"index": 18, "value": "SMPQ Miftahul Ulum"},
+          {"index": 19, "value": "SMPN 1 Sekincau"},
+          {"index": 20, "value": "SMPN 2 Sekincau"},
+          {"index": 21, "value": "SMPN 3 Sekincau"},
+          {"index": 22, "value": "SMP Miftahul Ulum"},
+          {"index": 23, "value": "SMP IT Nurul Huda"},
+          {"index": 24, "value": "SMPN 1 Pagar Dewa"},
+          {"index": 25, "value": "SMPN 2 Pagar Dewa"},
+          {"index": 26, "value": "SMPN Satap 1 Pagar Dewa"},
+          {"index": 27, "value": "SMPN Satap 2 Pagar Dewa"},
+          {"index": 28, "value": "SMP Al Munawaroh"},
+          {"index": 29, "value": "SMPN 1 Batu Ketulis"},
+          {"index": 30, "value": "SMPN 2 Batu Ketulis"},
+          {"index": 31, "value": "SMPN 1 Belalau"},
+          {"index": 32, "value": "SMPN 1 Batu Brak"},
+          {"index": 33, "value": "SMPN Satap 1 Batu Brak"},
+          {"index": 34, "value": "SMP IT Khoiru Ummah"},
+          {"index": 35, "value": "SMPN 1 Liwa"},
+          {"index": 36, "value": "SMPN 2 Liwa"},
+          {"index": 37, "value": "SMPN 3 Liwa"},
+          {"index": 38, "value": "SMPN 4 Liwa"},
+          {"index": 39, "value": "SMPN Satap 1 Balik Bukit"},
+          {"index": 40, "value": "SMPN Satap 2 Balik Bukit"},
+          {"index": 41, "value": "SMPN Sekuting Terpadu"},
+          {"index": 42, "value": "SMP KHM Sufi"},
+          {"index": 43, "value": "SMP IT Daarul Qudwah"},
+          {"index": 44, "value": "SMPN 1 Sukau"},
+          {"index": 45, "value": "SMPN 2 Sukau"},
+          {"index": 46, "value": "SMPN 3 Sukau"},
+          {"index": 47, "value": "SMPN Satap 1 Sukau"},
+          {"index": 48, "value": "SMPN Satap 2 Sukau"},
+          {"index": 49, "value": "SMP Muhammadiyah 1 Sukau"},
+          {"index": 50, "value": "SMPN 1 Lumbok Seminung"},
+          {"index": 51, "value": "SMPN Satap 1 Lumbok Seminung"},
+          {"index": 52, "value": "SMPN Satap 2 Lumbok Seminung"},
+          {"index": 53, "value": "SMPN Satap 3 Lumbok Seminung"},
+          {"index": 54, "value": "SMP Islam Al Istiqlaliah"},
+          {"index": 55, "value": "SMPN 1 Suoh"},
+          {"index": 56, "value": "SMPN 2 Suoh"},
+          {"index": 57, "value": "SMP Roworejo"},
+          {"index": 58, "value": "SMP Bhakti Mulya"},
+          {"index": 59, "value": "SMPN 1 Bandar Negeri Suoh"},
+          {"index": 60, "value": "SMPN 2 Bandar Negeri Suoh"},
+          {"index": 61, "value": "SMPN 3 Bandar Negeri Suoh"},
+          {"index": 62, "value": "SMPN Satap 1 BNS"},
+          {"index": 63, "value": "SMP Yatrimas"},
+          {"index": 64, "value": "SMP Darul Qur'an"},
+          {"index": 65, "value": "SMP Roudhotus Solihin"}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 0, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 5,
+      "itemId": "499191954",
+      "type": "PAGE_BREAK",
+      "title": "Kerjakan soal berikut dengan tepat.",
+      "helpText": "Materi : Sistem Persamaan Linear Dua Variabel (SPLDV)",
+      "required": false,
+      "data": {"type": "PAGE_BREAK", "title": "Kerjakan soal berikut dengan tepat.", "helpText": "Materi : Sistem Persamaan Linear Dua Variabel (SPLDV)"},
+      "quiz": {"isQuiz": false, "points": null, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 6,
+      "itemId": "295743229",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Diketahui sebuah persamaan memuat 4x + 2y = 12. Manakah yang merupakan konstanta pada persamaan itu..",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Diketahui sebuah persamaan memuat 4x + 2y = 12. Manakah yang merupakan konstanta pada persamaan itu..",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "4 dan 2", "navigationType": ""},
+          {"index": 2, "value": "x dan y", "navigationType": ""},
+          {"index": 3, "value": "12", "navigationType": ""},
+          {"index": 4, "value": "=", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 7,
+      "itemId": "324338382",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Sebuah persamaan memuat  - m - 2n = 10. Manakah yang merupakan koefisien dari persamaan tersebut.",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Sebuah persamaan memuat  - m - 2n = 10. Manakah yang merupakan koefisien dari persamaan tersebut.",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "1 dan 2", "navigationType": ""},
+          {"index": 2, "value": "-1 dan -2", "navigationType": ""},
+          {"index": 3, "value": "m dan n", "navigationType": ""},
+          {"index": 4, "value": "10", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 8,
+      "itemId": "420176421",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Diketahui SPLDV \n2x + y = 7\nx - y = -1\nNilai x dan y yang memenuhi sistem persamaan tersebut adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Diketahui SPLDV \n2x + y = 7\nx - y = -1\nNilai x dan y yang memenuhi sistem persamaan tersebut adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "x = 2 ; y = 3", "navigationType": ""},
+          {"index": 2, "value": "x = 3 ; y = 1", "navigationType": ""},
+          {"index": 3, "value": "x = 1 ; y = 5", "navigationType": ""},
+          {"index": 4, "value": "x = 2 ; y = -3", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 9,
+      "itemId": "1578157352",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Terdapat proyek pembangunan rumah dua lantai yang memerlukan besi dan kayu sebagai kerangka. Untuk lantai 2, bahan dibeli dari toko A sebanyak 50 besi dan 75 kayu, lalu dibeli lagi 60 besi dari toko B. \n\nSelanjutnya untuk lantai 1, bahan baku dibeli dari tiga perusahaan (A,B dan C) dimana pada masing-masing perusahaan dibeli 80 besi dan 20 kayu. \n\nApabila harga besi dilambangkan dengan x, dan harga kayu dilambangkan dengan y, maka persamaan untuk menentukan total harga yang harus dibayarkan adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Terdapat proyek pembangunan rumah dua lantai yang memerlukan besi dan kayu sebagai kerangka. Untuk lantai 2, bahan dibeli dari toko A sebanyak 50 besi dan 75 kayu, lalu dibeli lagi 60 besi dari toko B. \n\nSelanjutnya untuk lantai 1, bahan baku dibeli dari tiga perusahaan (A,B dan C) dimana pada masing-masing perusahaan dibeli 80 besi dan 20 kayu. \n\nApabila harga besi dilambangkan dengan x, dan harga kayu dilambangkan dengan y, maka persamaan untuk menentukan total harga yang harus dibayarkan adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "350x + 135y", "navigationType": ""},
+          {"index": 2, "value": "350x + 155y", "navigationType": ""},
+          {"index": 3, "value": "340x + 135y", "navigationType": ""},
+          {"index": 4, "value": "340x + 155y", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 10,
+      "itemId": "1454329986",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Agus, Budi dan Deni membeli buku dan pensil sejenis. Agus membeli 5 buku dan 4 pensil seharga Rp38.000,00. Budi membeli 3 buku dan 6 pensil seharga Rp30.000,00. Jika Deni membeli 4 buku dan 4 pensil, maka harga yang harus dibayar adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Agus, Budi dan Deni membeli buku dan pensil sejenis. Agus membeli 5 buku dan 4 pensil seharga Rp38.000,00. Budi membeli 3 buku dan 6 pensil seharga Rp30.000,00. Jika Deni membeli 4 buku dan 4 pensil, maka harga yang harus dibayar adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Rp26.000,00", "navigationType": ""},
+          {"index": 2, "value": "Rp28.000,00", "navigationType": ""},
+          {"index": 3, "value": "Rp30.000,00", "navigationType": ""},
+          {"index": 4, "value": "Rp32.000,00", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 11,
+      "itemId": "851819340",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Di tempat parkir terdapat 75 kendaraan yang terdiri dari mobil dan sepeda motor. Banyak roda seluruhnya ada 210 . Jika tarif parkir untuk mobil Rp5.000,00 dan sepeda motor Rp2.000,00. maka pendapatan uang parkir saat itu adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Di tempat parkir terdapat 75 kendaraan yang terdiri dari mobil dan sepeda motor. Banyak roda seluruhnya ada 210 . Jika tarif parkir untuk mobil Rp5.000,00 dan sepeda motor Rp2.000,00. maka pendapatan uang parkir saat itu adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Rp210.000,00", "navigationType": ""},
+          {"index": 2, "value": "Rp240.000,00", "navigationType": ""},
+          {"index": 3, "value": "Rp260.000,00", "navigationType": ""},
+          {"index": 4, "value": "Rp300.000,00", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 12,
+      "itemId": "1816141314",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Diketahui 4x + 2y = 2 dan 7x + 4y = 2. \nManakah persamaan berikut yang memiliki pernyataan yang benar...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Diketahui 4x + 2y = 2 dan 7x + 4y = 2. \nManakah persamaan berikut yang memiliki pernyataan yang benar...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "x - 2y = -8", "navigationType": ""},
+          {"index": 2, "value": "3x + 5y = 9", "navigationType": ""},
+          {"index": 3, "value": "x + y = -1", "navigationType": ""},
+          {"index": 4, "value": "x + y = 1", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 13,
+      "itemId": "1478410130",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Diketahui 2x - y = 4 dan x + 3y = - 5. Berapakah nilai x dan y untuk memenuhi persamaan tersebut",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Diketahui 2x - y = 4 dan x + 3y = - 5. Berapakah nilai x dan y untuk memenuhi persamaan tersebut",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "x = 1 dan y = 2", "navigationType": ""},
+          {"index": 2, "value": "x = 2 dan y = 1", "navigationType": ""},
+          {"index": 3, "value": "x = 1 dan y = -2", "navigationType": ""},
+          {"index": 4, "value": "x = -1 dan y = 2", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 14,
+      "itemId": "694201462",
+      "type": "PAGE_BREAK",
+      "title": "Kerjakan soal berikut dengan tepat",
+      "helpText": "Materi : Lingkaran",
+      "required": false,
+      "data": {"type": "PAGE_BREAK", "title": "Kerjakan soal berikut dengan tepat", "helpText": "Materi : Lingkaran"},
+      "quiz": {"isQuiz": false, "points": null, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 15,
+      "itemId": "965824887",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Pada gambar bagian lingkaran dibawah ini, gambar yang di warnai Daerah yang diwarnai  biru merupakan ...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Pada gambar bagian lingkaran dibawah ini, gambar yang di warnai Daerah yang diwarnai  biru merupakan ...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Busur lingkaran", "navigationType": ""},
+          {"index": 2, "value": "Apotema", "navigationType": ""},
+          {"index": 3, "value": "Juring", "navigationType": ""},
+          {"index": 4, "value": "Tembereng", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": [
+        {
+          "path": "questionItem.image",
+          "altText": "",
+          "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAC1mwkuRiGrj9v0TJAWOrT_qQcfafICj_lAOFAZYGCxE0fq2IBA599MEGP1iBRGFxBfG2Q6g9GjGrAhRuOCBRxxvkfW7wI5qbY4tbc8NHqPeOz1B27g1gH-vkJzS5EHTb8gfyh-lnvnExJ3U9b=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+          "image": {
+            "id": "1qZLRXo1wT6TPgFmL54vQOjEdkUMeG8xG",
+            "name": "item-15-image-1.png",
+            "mimeType": "image/png",
+            "url": "https://drive.google.com/file/d/1qZLRXo1wT6TPgFmL54vQOjEdkUMeG8xG/view?usp=drivesdk",
+            "directUrl": "https://drive.google.com/uc?export=view&id=1qZLRXo1wT6TPgFmL54vQOjEdkUMeG8xG",
+            "thumbnailUrl": "https://drive.google.com/thumbnail?id=1qZLRXo1wT6TPgFmL54vQOjEdkUMeG8xG&sz=w1600"
+          }
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "itemId": "1199661552",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Pada gambar lingkaran dibawah ini, Garis OD merupakan ...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Pada gambar lingkaran dibawah ini, Garis OD merupakan ...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Tali Busur", "navigationType": ""},
+          {"index": 2, "value": "Apotema", "navigationType": ""},
+          {"index": 3, "value": "Juring", "navigationType": ""},
+          {"index": 4, "value": "Jari - Jari", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": [
+        {
+          "path": "questionItem.image",
+          "altText": "",
+          "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVC67yzop1c_qdPY1Nh3aCVBA9ZXZxXNlyLEgM2EtDBxVWwdjL-gFvGC0agU-N2G29glY2jx90-pLPgVgTwP5KqE31vQYgCnzJblK3rZtDeeEt09oH8OEpQ_63hp9E5EzoD0bHzGJiPZPY2UsQG0=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+          "image": {
+            "id": "1HakGSMcXcNQKHzjGtZvbjzJSjOk41Gk2",
+            "name": "item-16-image-1.png",
+            "mimeType": "image/png",
+            "url": "https://drive.google.com/file/d/1HakGSMcXcNQKHzjGtZvbjzJSjOk41Gk2/view?usp=drivesdk",
+            "directUrl": "https://drive.google.com/uc?export=view&id=1HakGSMcXcNQKHzjGtZvbjzJSjOk41Gk2",
+            "thumbnailUrl": "https://drive.google.com/thumbnail?id=1HakGSMcXcNQKHzjGtZvbjzJSjOk41Gk2&sz=w1600"
+          }
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "itemId": "605197499",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Jika panjang jari-jari sebuah lingkaran 7 cm , maka panjang keliling lingkaran tersebut adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Jika panjang jari-jari sebuah lingkaran 7 cm , maka panjang keliling lingkaran tersebut adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "44 cm", "navigationType": ""},
+          {"index": 2, "value": "22 cm", "navigationType": ""},
+          {"index": 3, "value": "11 cm", "navigationType": ""},
+          {"index": 4, "value": "7 cm", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 18,
+      "itemId": "1298396291",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Pak Iswan ingin membuat sebuah kebun yang bentuknya merupakan gabungan dari sebuah persegi panjang dan sebuah setengah lingkaran. Persegi panjang tersebut memiliki panjang 20 m dan lebar 14 m. Jika setengah lingkaran tersebut terpasang tepat pada salah satu sisi lebar persegi panjang, maka panjang pagar minimal yang diperlukan Pak Iswan untuk mengelililingi seluruh kebun tersebut adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Pak Iswan ingin membuat sebuah kebun yang bentuknya merupakan gabungan dari sebuah persegi panjang dan sebuah setengah lingkaran. Persegi panjang tersebut memiliki panjang 20 m dan lebar 14 m. Jika setengah lingkaran tersebut terpasang tepat pada salah satu sisi lebar persegi panjang, maka panjang pagar minimal yang diperlukan Pak Iswan untuk mengelililingi seluruh kebun tersebut adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "54 m", "navigationType": ""},
+          {"index": 2, "value": "76 m", "navigationType": ""},
+          {"index": 3, "value": "82 m", "navigationType": ""},
+          {"index": 4, "value": "90 m", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 19,
+      "itemId": "813591176",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Bu Novi memiliki kendaraan dengan roda berjari-jari 35 cm berputar sebanyak 200 kali diatas jalan mendatar. Jarak total yang ditempuh oleh roda itu adalah",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Bu Novi memiliki kendaraan dengan roda berjari-jari 35 cm berputar sebanyak 200 kali diatas jalan mendatar. Jarak total yang ditempuh oleh roda itu adalah",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "110 m", "navigationType": ""},
+          {"index": 2, "value": "220 m", "navigationType": ""},
+          {"index": 3, "value": "440 m", "navigationType": ""},
+          {"index": 4, "value": "880 m", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 20,
+      "itemId": "204890803",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Sebuah taman berbentuk lingkaran memiliki keliling 132 cm. Jika taman tersebut akan dipagari dengan total biaya Rp15.000,00 per meter, maka biaya total pemagaran seluruhnya adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Sebuah taman berbentuk lingkaran memiliki keliling 132 cm. Jika taman tersebut akan dipagari dengan total biaya Rp15.000,00 per meter, maka biaya total pemagaran seluruhnya adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Rp13.200", "navigationType": ""},
+          {"index": 2, "value": "Rp19.800", "navigationType": ""},
+          {"index": 3, "value": "Rp21.000", "navigationType": ""},
+          {"index": 4, "value": "Rp26.400", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 21,
+      "itemId": "335048510",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Sebuah lingkaran besar memiliki luas 616 cm persegi. Berapakah panjang diameter lingkaran tersebut ?",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Sebuah lingkaran besar memiliki luas 616 cm persegi. Berapakah panjang diameter lingkaran tersebut ?",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "56 cm", "navigationType": ""},
+          {"index": 2, "value": "28 cm", "navigationType": ""},
+          {"index": 3, "value": "22 cm", "navigationType": ""},
+          {"index": 4, "value": "14 cm", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 22,
+      "itemId": "919520467",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Pada sebuah lingkaran dengan jari-jari 21 cm terdapat busur AB yang panjangnya dibentuk oleh sudut pusat 60 derajat. Panjang busur AB adalah...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Pada sebuah lingkaran dengan jari-jari 21 cm terdapat busur AB yang panjangnya dibentuk oleh sudut pusat 60 derajat. Panjang busur AB adalah...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "11 cm", "navigationType": ""},
+          {"index": 2, "value": "22 cm", "navigationType": ""},
+          {"index": 3, "value": "44 cm", "navigationType": ""},
+          {"index": 4, "value": "66 cm", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 23,
+      "itemId": "1913218724",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Diketahui sebuah juring memiliki jari-jari 14 cm dan sudut pusat 90 derajat. Maka luas juring lingkaran tersebut adalah .... cm persegi",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Diketahui sebuah juring memiliki jari-jari 14 cm dan sudut pusat 90 derajat. Maka luas juring lingkaran tersebut adalah .... cm persegi",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "77", "navigationType": ""},
+          {"index": 2, "value": "154", "navigationType": ""},
+          {"index": 3, "value": "308", "navigationType": ""},
+          {"index": 4, "value": "616", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": [
+        {
+          "path": "questionItem.image",
+          "altText": "",
+          "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDrFeSc_VGIW7XlDSNLWOvD7WCIVB0arhM4gOH_B3CdUjGSy5bXZSVsOdq_5JL_T97nry4GNyUDYBRrK-YNqlICxd9IljeljoDakZsut-vskkULcv-0yK8cLhJk8vaP5hSQ7pS99e0tE1tDxnth=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+          "image": {
+            "id": "1aUNO_Wx5-5W_ZKk6vVo9AIYQQTIpUuyg",
+            "name": "item-23-image-1.png",
+            "mimeType": "image/png",
+            "url": "https://drive.google.com/file/d/1aUNO_Wx5-5W_ZKk6vVo9AIYQQTIpUuyg/view?usp=drivesdk",
+            "directUrl": "https://drive.google.com/uc?export=view&id=1aUNO_Wx5-5W_ZKk6vVo9AIYQQTIpUuyg",
+            "thumbnailUrl": "https://drive.google.com/thumbnail?id=1aUNO_Wx5-5W_ZKk6vVo9AIYQQTIpUuyg&sz=w1600"
+          }
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "itemId": "1474160723",
+      "type": "PAGE_BREAK",
+      "title": "Kerjakan soal berikut dengan tepat",
+      "helpText": "Materi : Jaring - Jaring Bangun Ruang",
+      "required": false,
+      "data": {"type": "PAGE_BREAK", "title": "Kerjakan soal berikut dengan tepat", "helpText": "Materi : Jaring - Jaring Bangun Ruang"},
+      "quiz": {"isQuiz": false, "points": null, "correctAnswers": []},
+      "images": []
+    },
+    {
+      "index": 25,
+      "itemId": "1323017535",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Gambar berikut merupakan gambar jaring-jaring dari...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Gambar berikut merupakan gambar jaring-jaring dari...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Limas Segitiga", "navigationType": ""},
+          {"index": 2, "value": "Prisma Segitiga", "navigationType": ""},
+          {"index": 3, "value": "Segitiga sama kaki", "navigationType": ""},
+          {"index": 4, "value": "Prisma Segiempat", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": [
+        {
+          "path": "questionItem.image",
+          "altText": "",
+          "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVB5xBOOVK9-RKUvWYQWSV58j5zfA7wk0K9chUQBNOrnQlzo3ftqm0Jj5Sf9zEHlPApapd-rWsAHREzkweiTw-HNvgMUs0fxsVp9Z8WQv-Ne2w6wBIpZi6isn6HAzcYwxxHMsEXcG6SUeGRO7Hd7=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+          "image": {
+            "id": "1IGkgUyYEedDg4o2vwWq0-bZ5vAEqvhti",
+            "name": "item-25-image-1.png",
+            "mimeType": "image/png",
+            "url": "https://drive.google.com/file/d/1IGkgUyYEedDg4o2vwWq0-bZ5vAEqvhti/view?usp=drivesdk",
+            "directUrl": "https://drive.google.com/uc?export=view&id=1IGkgUyYEedDg4o2vwWq0-bZ5vAEqvhti",
+            "thumbnailUrl": "https://drive.google.com/thumbnail?id=1IGkgUyYEedDg4o2vwWq0-bZ5vAEqvhti&sz=w1600"
+          }
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "itemId": "936490603",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Gambar berikut merupakan jaring-jaring dari...",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Gambar berikut merupakan jaring-jaring dari...",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Lingkaran", "navigationType": ""},
+          {"index": 2, "value": "Bola", "navigationType": ""},
+          {"index": 3, "value": "Tabung", "navigationType": ""},
+          {"index": 4, "value": "Kerucut", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": [
+        {
+          "path": "questionItem.image",
+          "altText": "",
+          "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCQLSuf0dfLHSYB-etN5cKncq_beDBLqcKFwxb1Z9mx5vZjzRaOQoutuB3qllguSziTHxMUdVX4_j1Yedn_nrpzjVm_imaDPfOARDrvz1rvVYQIQNFLmoOpnFpuZnpnxmGo7cKc1P9ZzmgqIQ=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+          "image": {
+            "id": "1N_93ANGKhahvk15VdVE8aj2kz12dowGx",
+            "name": "item-26-image-1.png",
+            "mimeType": "image/png",
+            "url": "https://drive.google.com/file/d/1N_93ANGKhahvk15VdVE8aj2kz12dowGx/view?usp=drivesdk",
+            "directUrl": "https://drive.google.com/uc?export=view&id=1N_93ANGKhahvk15VdVE8aj2kz12dowGx",
+            "thumbnailUrl": "https://drive.google.com/thumbnail?id=1N_93ANGKhahvk15VdVE8aj2kz12dowGx&sz=w1600"
+          }
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "itemId": "705322963",
+      "type": "MULTIPLE_CHOICE",
+      "title": "Gambar berikut merupakan gambar jaring-jaring dari .... dan lingkaran kecil dibawahnya merupakan ....",
+      "helpText": "",
+      "required": false,
+      "data": {
+        "type": "MULTIPLE_CHOICE",
+        "title": "Gambar berikut merupakan gambar jaring-jaring dari .... dan lingkaran kecil dibawahnya merupakan ....",
+        "helpText": "",
+        "required": true,
+        "choices": [
+          {"index": 1, "value": "Tabung - alas tabung", "navigationType": ""},
+          {"index": 2, "value": "Prisma - alas prisma", "navigationType": ""},
+          {"index": 3, "value": "Kerucut - alas kerucut", "navigationType": ""},
+          {"index": 4, "value": "limas - alas limas", "navigationType": ""}
+        ]
+      },
+      "quiz": {"isQuiz": false, "points": 5, "correctAnswers": []},
+      "images": [
+        {
+          "path": "questionItem.image",
+          "altText": "",
+          "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDl0FHOlPWbrDR6BFANLL5TIACohGJarSeTp6wcRNHKrjZt0GpJNpQMNVm4qiWmA3l_KJbGqu6D1XkGIIDg67xhnYL7qAaPKNrjeH3nnM-d9WNJDalvLQyXuANSWeXw4MBEq0qQB7zBmnykx3T_=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+          "image": {
+            "id": "1Ec3QKpRk8IaE9DbfV9O7JBb04_capLw3",
+            "name": "item-27-image-1.png",
+            "mimeType": "image/png",
+            "url": "https://drive.google.com/file/d/1Ec3QKpRk8IaE9DbfV9O7JBb04_capLw3/view?usp=drivesdk",
+            "directUrl": "https://drive.google.com/uc?export=view&id=1Ec3QKpRk8IaE9DbfV9O7JBb04_capLw3",
+            "thumbnailUrl": "https://drive.google.com/thumbnail?id=1Ec3QKpRk8IaE9DbfV9O7JBb04_capLw3&sz=w1600"
+          }
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "index": 1,
+      "path": "items[14].questionItem.image",
+      "altText": "",
+      "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAC1mwkuRiGrj9v0TJAWOrT_qQcfafICj_lAOFAZYGCxE0fq2IBA599MEGP1iBRGFxBfG2Q6g9GjGrAhRuOCBRxxvkfW7wI5qbY4tbc8NHqPeOz1B27g1gH-vkJzS5EHTb8gfyh-lnvnExJ3U9b=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+      "image": {
+        "id": "17p3u4crKnYN5bpXrmYQX7-rGbpydFzSq",
+        "name": "forms-api-image-1.png",
+        "mimeType": "image/png",
+        "url": "https://drive.google.com/file/d/17p3u4crKnYN5bpXrmYQX7-rGbpydFzSq/view?usp=drivesdk",
+        "directUrl": "https://drive.google.com/uc?export=view&id=17p3u4crKnYN5bpXrmYQX7-rGbpydFzSq",
+        "thumbnailUrl": "https://drive.google.com/thumbnail?id=17p3u4crKnYN5bpXrmYQX7-rGbpydFzSq&sz=w1600"
+      }
+    },
+    {
+      "index": 2,
+      "path": "items[15].questionItem.image",
+      "altText": "",
+      "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVC67yzop1c_qdPY1Nh3aCVBA9ZXZxXNlyLEgM2EtDBxVWwdjL-gFvGC0agU-N2G29glY2jx90-pLPgVgTwP5KqE31vQYgCnzJblK3rZtDeeEt09oH8OEpQ_63hp9E5EzoD0bHzGJiPZPY2UsQG0=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+      "image": {
+        "id": "1c8APm7AxUq-hGkh9z9buGIf5OQcNUb36",
+        "name": "forms-api-image-2.png",
+        "mimeType": "image/png",
+        "url": "https://drive.google.com/file/d/1c8APm7AxUq-hGkh9z9buGIf5OQcNUb36/view?usp=drivesdk",
+        "directUrl": "https://drive.google.com/uc?export=view&id=1c8APm7AxUq-hGkh9z9buGIf5OQcNUb36",
+        "thumbnailUrl": "https://drive.google.com/thumbnail?id=1c8APm7AxUq-hGkh9z9buGIf5OQcNUb36&sz=w1600"
+      }
+    },
+    {
+      "index": 3,
+      "path": "items[22].questionItem.image",
+      "altText": "",
+      "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDrFeSc_VGIW7XlDSNLWOvD7WCIVB0arhM4gOH_B3CdUjGSy5bXZSVsOdq_5JL_T97nry4GNyUDYBRrK-YNqlICxd9IljeljoDakZsut-vskkULcv-0yK8cLhJk8vaP5hSQ7pS99e0tE1tDxnth=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+      "image": {
+        "id": "1WJvqmHxUYOxs-ncDeCcifXY5bI58Fn7s",
+        "name": "forms-api-image-3.png",
+        "mimeType": "image/png",
+        "url": "https://drive.google.com/file/d/1WJvqmHxUYOxs-ncDeCcifXY5bI58Fn7s/view?usp=drivesdk",
+        "directUrl": "https://drive.google.com/uc?export=view&id=1WJvqmHxUYOxs-ncDeCcifXY5bI58Fn7s",
+        "thumbnailUrl": "https://drive.google.com/thumbnail?id=1WJvqmHxUYOxs-ncDeCcifXY5bI58Fn7s&sz=w1600"
+      }
+    },
+    {
+      "index": 4,
+      "path": "items[24].questionItem.image",
+      "altText": "",
+      "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVB5xBOOVK9-RKUvWYQWSV58j5zfA7wk0K9chUQBNOrnQlzo3ftqm0Jj5Sf9zEHlPApapd-rWsAHREzkweiTw-HNvgMUs0fxsVp9Z8WQv-Ne2w6wBIpZi6isn6HAzcYwxxHMsEXcG6SUeGRO7Hd7=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+      "image": {
+        "id": "1RsBrUjFGMOBqOfSbVICYf2B4P3Kl58JS",
+        "name": "forms-api-image-4.png",
+        "mimeType": "image/png",
+        "url": "https://drive.google.com/file/d/1RsBrUjFGMOBqOfSbVICYf2B4P3Kl58JS/view?usp=drivesdk",
+        "directUrl": "https://drive.google.com/uc?export=view&id=1RsBrUjFGMOBqOfSbVICYf2B4P3Kl58JS",
+        "thumbnailUrl": "https://drive.google.com/thumbnail?id=1RsBrUjFGMOBqOfSbVICYf2B4P3Kl58JS&sz=w1600"
+      }
+    },
+    {
+      "index": 5,
+      "path": "items[25].questionItem.image",
+      "altText": "",
+      "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCQLSuf0dfLHSYB-etN5cKncq_beDBLqcKFwxb1Z9mx5vZjzRaOQoutuB3qllguSziTHxMUdVX4_j1Yedn_nrpzjVm_imaDPfOARDrvz1rvVYQIQNFLmoOpnFpuZnpnxmGo7cKc1P9ZzmgqIQ=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+      "image": {
+        "id": "1i4ynEpha9qV-R0TaZ6WuLidkOkqeWFIX",
+        "name": "forms-api-image-5.png",
+        "mimeType": "image/png",
+        "url": "https://drive.google.com/file/d/1i4ynEpha9qV-R0TaZ6WuLidkOkqeWFIX/view?usp=drivesdk",
+        "directUrl": "https://drive.google.com/uc?export=view&id=1i4ynEpha9qV-R0TaZ6WuLidkOkqeWFIX",
+        "thumbnailUrl": "https://drive.google.com/thumbnail?id=1i4ynEpha9qV-R0TaZ6WuLidkOkqeWFIX&sz=w1600"
+      }
+    },
+    {
+      "index": 6,
+      "path": "items[26].questionItem.image",
+      "altText": "",
+      "contentUri": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDl0FHOlPWbrDR6BFANLL5TIACohGJarSeTp6wcRNHKrjZt0GpJNpQMNVm4qiWmA3l_KJbGqu6D1XkGIIDg67xhnYL7qAaPKNrjeH3nnM-d9WNJDalvLQyXuANSWeXw4MBEq0qQB7zBmnykx3T_=s2048?key=RQqoLYXCIBUL8Zk5cNfp3w",
+      "image": {
+        "id": "1aGggXiKcDuW1-HzvLn4Y28grpHhP9BS-",
+        "name": "forms-api-image-6.png",
+        "mimeType": "image/png",
+        "url": "https://drive.google.com/file/d/1aGggXiKcDuW1-HzvLn4Y28grpHhP9BS-/view?usp=drivesdk",
+        "directUrl": "https://drive.google.com/uc?export=view&id=1aGggXiKcDuW1-HzvLn4Y28grpHhP9BS-",
+        "thumbnailUrl": "https://drive.google.com/thumbnail?id=1aGggXiKcDuW1-HzvLn4Y28grpHhP9BS-&sz=w1600"
+      }
+    }
+  ],
+  "imageSummary": {
+    "total": 6,
+    "itemImages": 6
+  }
+}
